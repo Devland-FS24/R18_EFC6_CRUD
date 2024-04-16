@@ -1,0 +1,264 @@
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\spa.proxy.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\appsettings.Development.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\appsettings.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.exe
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.deps.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.runtimeconfig.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.pdb
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Humanizer.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.AssemblyReference.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\spa.proxy.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.AssemblyInfoInputs.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.AssemblyInfo.cs
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.CoreCompileInputs.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.MvcApplicationPartsAssemblyInfo.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.RazorAssemblyInfo.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.RazorAssemblyInfo.cs
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.NETCore6_React.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.build.NETCore6_React.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NETCore6_React.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NETCore6_React.props
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets.build.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets.development.json
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\scopedcss\bundle\NETCore6_React.styles.css
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.CopyComplete
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\refint\NETCore6_React.dll
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.pdb
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.genruntimeconfig.cache
+F:\Ready to use\Entanglement\Job\cv 2023\PORTFOLIO WBALCAZAR 23\REACTJS_EF_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\ref\NETCore6_React.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\appsettings.Development.json
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\appsettings.json
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\spa.proxy.json
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.exe
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.deps.json
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.runtimeconfig.json
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.pdb
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Humanizer.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.AssemblyReference.cache
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\spa.proxy.json
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.AssemblyInfoInputs.cache
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.AssemblyInfo.cs
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.MvcApplicationPartsAssemblyInfo.cache
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.RazorAssemblyInfo.cache
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.RazorAssemblyInfo.cs
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.NETCore6_React.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.build.NETCore6_React.props
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NETCore6_React.props
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NETCore6_React.props
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets.build.json
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets.development.json
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\scopedcss\bundle\NETCore6_React.styles.css
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.CopyComplete
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\refint\NETCore6_React.dll
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.pdb
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.genruntimeconfig.cache
+F:\Ready to use\GITHUB\ENG\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\ref\NETCore6_React.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\appsettings.Development.json
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\appsettings.json
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\spa.proxy.json
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.exe
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.deps.json
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.runtimeconfig.json
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\NETCore6_React.pdb
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Humanizer.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.AssemblyReference.cache
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\spa.proxy.json
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.AssemblyInfoInputs.cache
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.AssemblyInfo.cs
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.MvcApplicationPartsAssemblyInfo.cache
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.RazorAssemblyInfo.cache
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.RazorAssemblyInfo.cs
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.NETCore6_React.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.build.NETCore6_React.props
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NETCore6_React.props
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NETCore6_React.props
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets.build.json
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\staticwebassets.development.json
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\scopedcss\bundle\NETCore6_React.styles.css
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.CopyComplete
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\refint\NETCore6_React.dll
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.pdb
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\NETCore6_React.genruntimeconfig.cache
+F:\Ready to use\GITMS\REACTJS_EF_TS_NET6_TEMPLATE\NETCore6_React\obj\Debug\net6.0\ref\NETCore6_React.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\appsettings.Development.json
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\appsettings.json
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\spa.proxy.json
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\NETCore6_React.exe
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\NETCore6_React.deps.json
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\NETCore6_React.runtimeconfig.json
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\NETCore6_React.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\NETCore6_React.pdb
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Humanizer.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.AspNetCore.SpaProxy.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.AssemblyReference.cache
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\spa.proxy.json
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.AssemblyInfoInputs.cache
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.AssemblyInfo.cs
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.CoreCompileInputs.cache
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.MvcApplicationPartsAssemblyInfo.cache
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.RazorAssemblyInfo.cache
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.RazorAssemblyInfo.cs
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.NETCore6_React.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.build.NETCore6_React.props
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NETCore6_React.props
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NETCore6_React.props
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\staticwebassets.build.json
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\staticwebassets.development.json
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\scopedcss\bundle\NETCore6_React.styles.css
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.csproj.CopyComplete
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\refint\NETCore6_React.dll
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.pdb
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\NETCore6_React.genruntimeconfig.cache
+F:\Ready to use\GITMS\R18_EFCORE6_CRUD\NETCore6_React\obj\Debug\net6.0\ref\NETCore6_React.dll
